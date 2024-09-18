@@ -12,6 +12,8 @@ body {
 
 .main-content {
     flex-grow: 1;
+    
+    
 }
 
 footer {
@@ -53,3 +55,4 @@ button {
     color: white;
     padding: 8px;
 }
+
